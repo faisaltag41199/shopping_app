@@ -1,16 +1,29 @@
 # shopping_app
 
-A new Flutter project.
+flutter application that allows customers to browse and buy from retailers and brands.
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
+* Responsive Design . 
+* user authentication (log in with email and password -login with google - log out) .
+* disply user data.
+* display product categories .
+* display products .
+* disply product details.
+* add product to cart.
+* manage cart ( increase items - decrease items - delete items).
 
-A few resources to get you started if this is your first Flutter project:
+# What I Learned
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* How to use flutter widgets to build the UI of the application.
+* How to use dart and flutter to develop the product that meets the requirements.
+* How to use Getx State Management .
+* How to apply MVC architecture pattern .
+* How to use Flutter to do Responsive Design .
+* How to use Firebase (authentication - firestore)
+  - store and retrieve data of a users
+  - retrieve data of categories , products
+  - authentication (login and register with email and password - log out)
+  - authentication with google 
+* How to use Hive database for persistent data.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
